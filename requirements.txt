@@ -1,0 +1,5 @@
+azure-ai-textanalytics
+botbuilder-core
+botbuilder-dialogs
+botbuilder-schema
+flask
